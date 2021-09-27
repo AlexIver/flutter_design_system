@@ -1,4 +1,5 @@
 # Flutter design system (WORK IN PROGRESS)
 
-[![License]https://img.shields.io/github/license/AlexIver/flutter_design_system)](https://github.com/AlexIver/flutter_design_system/blob/master/LICENSE)
+[![License](https://img.shields.io/static/v1?color=blue&label=License&message=MIT)](https://github.com/g000sha256/Reduktor-RxJava/blob/2.x/License)
+
 
